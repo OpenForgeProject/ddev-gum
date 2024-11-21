@@ -4,7 +4,7 @@ setup() {
   export TESTDIR=~/tmp/test-gum
   mkdir -p $TESTDIR
   export PROJNAME=test-gum
-  export DDEV_ADDON=Morgy93/ddev-gum
+  export DDEV_ADDON=OpenForgeProject/ddev-gum
   export DDEV_NON_INTERACTIVE=true
   ddev delete -Oy ${PROJNAME} >/dev/null 2>&1 || true
   cd "${TESTDIR}"

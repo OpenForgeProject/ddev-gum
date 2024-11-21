@@ -8,13 +8,13 @@
     <h1 align="center">ddev-gum</h1>
 </div>
 
-[![tests](https://github.com/Morgy93/ddev-gum/actions/workflows/tests.yml/badge.svg)](https://github.com/Morgy93/ddev-gum/actions/workflows/tests.yml) ![project is maintained](https://img.shields.io/maintenance/yes/2024.svg)
+[![tests](https://github.com/OpenForgeProject/ddev-gum/actions/workflows/tests.yml/badge.svg)](https://github.com/OpenForgeProject/ddev-gum/actions/workflows/tests.yml) ![project is maintained](https://img.shields.io/maintenance/yes/2024.svg)
 
 ## What is Gum?
 
 > A tool for glamorous shell scripts. Leverage the power of [Bubbles](https://github.com/charmbracelet/bubbles) and [Lip Gloss](https://github.com/charmbracelet/lipgloss) in your scripts and aliases without writing any Go code!
 >
-> ![gum](https://github.com/Morgy93/ddev-gum/assets/7961978/426f48a5-f02e-423e-a894-ca54bd2cd0d1)
+> ![gum](https://github.com/OpenForgeProject/ddev-gum/assets/7961978/426f48a5-f02e-423e-a894-ca54bd2cd0d1)
 
 For more information, see the [official repository](https://github.com/charmbracelet/gum) or visit <https://charm.sh/>.
 
@@ -25,7 +25,7 @@ YouTube Shorts: [Gum: Write Glamorous Shell Scripts](https://www.youtube.com/wat
 ## Installation
 
 ```shell
-ddev add-on get Morgy93/ddev-gum
+ddev add-on get OpenForgeProject/ddev-gum
 ddev restart
 ```
 
